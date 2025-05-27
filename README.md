@@ -36,7 +36,7 @@ Explored the relationship between audio features like energy and danceability to
 
 ### ⚙️ Tools & Technologies
 
-* **SQL**: PostgreSQL
+* **SQL**: PostgreSQL and PgAdmin4
 * **Data Analysis**: SQL querying with joins, aggregates, subqueries
 * **Version Control**: GitHub for project tracking
 
