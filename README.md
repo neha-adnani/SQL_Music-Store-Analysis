@@ -1,5 +1,7 @@
 ## 🎧 Music Store Analysis – SQL Portfolio Project
 
+#### A follow along project (by Rishabh Mishra)
+
 ### 📘 Project Overview
 
 This SQL portfolio project explores a fictional music store’s database to uncover key insights into customer purchasing behavior, product performance, and regional trends. Through advanced SQL queries, the project simulates real-world data analysis tasks typically performed by data analysts and business intelligence professionals.
