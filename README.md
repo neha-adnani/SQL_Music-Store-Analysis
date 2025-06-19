@@ -64,7 +64,7 @@ Tracked customer purchases per artist to enable personalized recommendations and
 ### ⚙️ How to Use/View the Dashboard
 
 1. *Prerequisites*:
-  * Power BI Desktop installed.
+  * Install Power BI Desktop.
   * Access to a PostgreSQL database with the specified tables and data.
       Note: You will need to update the data source settings in Power BI Desktop to point to your PostgreSQL instance.
 2. *Download the Project*:
@@ -83,11 +83,11 @@ This project not only reinforces core SQL skills but also simulates real busines
 
 ---
 
-### Contact
+### 🔗 Contact
 Neha Adnani
-Linkedin- https://www.linkedin.com/in/neha-adnani/
-Github- https://github.com/neha-adnani
+* **Linkedin**- https://www.linkedin.com/in/neha-adnani/
+* **Github**- https://github.com/neha-adnani
 
 ---
 
-#### Data Source (Rishabh Mishra)
+#### 🗂️ Data Source (Rishabh Mishra)
